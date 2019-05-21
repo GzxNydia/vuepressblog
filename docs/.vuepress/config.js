@@ -35,7 +35,7 @@ module.exports = {
                 // 'type',
             ],
             '/CSS/': ['', '47css-trick', 'rem', 'clear-float'],
-            '/Vue/': [''],
+            '/Vue/': ['','caijian'],
             '/HTTP/': ['', 'security', 'caching', 'status-code', 'XDomain'],
             '/WX/': ['','wxyun'],
         },
